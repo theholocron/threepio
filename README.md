@@ -1,8 +1,10 @@
-# <name>
+# Threepio
 
-<description> used within the Galaxy.
+This protocol droid contains all protocols (shareable configurations) used within the Galaxy.
 
 ## Installation
+
+Please check the README for each configuration within the `packages` directory for specific installation instructions, however the general process is:
 
 ```bash
 npm install --save-dev @theholocron/<lib>
@@ -11,6 +13,7 @@ npm install --save-dev @theholocron/<lib>
 ## Table of Contents
 
 - [Usage](#usage)
+- [Packages](#the-packages-we-maintain)
 - [Documentation](#where-to-find-documentation)
 - [Changelog](#how-we-track-changes)
 - [Versioning](#how-we-version)
@@ -23,6 +26,10 @@ npm install --save-dev @theholocron/<lib>
 ## Usage
 
 Check the README for each configuration within the `packages` directory for specific usage instructions.
+
+## The Packages We Maintain
+
+- [commitlint-config](./packages/commitlint-config#readme) - A CommitLint configuration for writing well-formatted and consistent Git commits.
 
 ## Where to Find Documentation
 

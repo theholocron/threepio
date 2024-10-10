@@ -4,6 +4,8 @@
   "baseBranch": "main",
   "changelog": ["@changesets/changelog-github", {"repo": "theholocron/threepio"}],
   "commit": false,
-  "linked": [],
+  "linked": [
+    "@theholocron/commitlint-config"
+  ],
   "updateInternalDependencies": "patch"
 }

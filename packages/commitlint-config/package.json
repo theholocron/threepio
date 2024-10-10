@@ -1,0 +1,21 @@
+{
+  "name": "@theholocron/commitlint-config",
+  "homepage": "https://github.com/theholocron/threepio/tree/main/packages/commitlint-config#readme",
+  "description": "A CommitLint configuration for writing well-formatted and consistent Git commits within the Galaxy.",
+  "author": "Newton Koumantzelis",
+  "version": "0.0.0",
+  "main": "commitlint.config.js",
+  "type": "module",
+  "repository": "https://github.com/theholocron/threepio.git",
+  "bugs": "https://github.com/theholocron/threepio/issues",
+  "releases": "https://github.com/theholocron/threepio/releases",
+  "wiki": "https://github.com/theholocron/threepio/wiki",
+  "license": "GPL-3.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^19.5.0",
+    "@commitlint/config-conventional": "^19.5.0"
+  }
+}
