@@ -3,7 +3,7 @@
   "homepage": "https://github.com/theholocron/threepio/tree/main/packages/commitlint-config#readme",
   "description": "A CommitLint configuration for writing well-formatted and consistent Git commits within the Galaxy.",
   "author": "Newton Koumantzelis",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "commitlint.config.js",
   "type": "module",
   "repository": {
