@@ -6,7 +6,10 @@
   "version": "0.0.0",
   "main": "commitlint.config.js",
   "type": "module",
-  "repository": "https://github.com/theholocron/threepio.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theholocron/threepio.git"
+  },
   "bugs": "https://github.com/theholocron/threepio/issues",
   "releases": "https://github.com/theholocron/threepio/releases",
   "wiki": "https://github.com/theholocron/threepio/wiki",
