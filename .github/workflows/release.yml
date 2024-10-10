@@ -7,6 +7,6 @@ on:
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
-jobs:
-  release:
+steps:
+  - name: Release
     uses: theholocron/ci/release@v1
