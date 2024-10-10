@@ -15,9 +15,6 @@
   "releases": "https://github.com/theholocron/threepio/releases",
   "wiki": "https://github.com/theholocron/threepio/wiki",
   "license": "GPL-3.0",
-  "engines": {
-    "node": ">=20"
-  },
   "packageManager": "npm@9.5.0",
   "commitlint": {
     "extends": "@theholocron"
